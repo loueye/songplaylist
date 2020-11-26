@@ -105,7 +105,7 @@
               icon
           >
             <v-icon size="24px">
-              
+
             </v-icon>
           </v-btn>
         </v-card-text>

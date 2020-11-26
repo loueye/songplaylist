@@ -28,16 +28,16 @@ components: {LikedList, Playlist, Musique},
     return {
       counter:0,
       Playlist: [
-        { id:0, audio: '/audio/surrogate_jiji.m4a', artist: 'Joe Hisaishi', tittle: 'Surrogate Jiji', album: 'Kiki Delivery\'s Service', cover: 'https://i1.sndcdn.com/artworks-000251709487-jtpnni-t500x500.jpg' },
-        { id:1,audio: '/audio/ponyo.mp3', artist: 'Joe Hisaishi', tittle: 'Ponyo by The Cliff by The Sea', album: 'Ponyo', cover: 'https://vgmdownloads.com/soundtracks/ponyo-ost/07.jpg' },
-        { id:2,audio: '/audio/girl_from_sky.mp3', artist: 'Joe Hisaishi', tittle: 'The Girl who fell from the Sky', album: 'Laputa: Castle in The Sky', cover: 'https://m.media-amazon.com/images/I/81T-0VmGhlL._SS500_.jpg' },
-        { id:3,audio: '/audio/promise_of_the_world.mp3', artist: 'Joe Hisaishi', tittle: 'Promise of the world', album: 'Howl\'s Moving Castle', cover: 'https://vgmdownloads.com/soundtracks/howls-moving-castle-original-soundtrack/2236-uuzkwcxhul.jpg' },
-        { id:4,audio: '/audio/vapor_trails.mp3', artist: 'Joe Hisaishi', tittle: 'Vapor Trail', album: 'The Wind Rises', cover: 'https://i1.sndcdn.com/artworks-000083370239-e0wchp-t500x500.jpg'},
-        { id:5,audio: '/audio/bygone_days.mp3', artist: 'Joe Hisaishi', tittle: 'Bygones Days', album: 'Porco Rosso', cover: 'https://images-na.ssl-images-amazon.com/images/I/91987HOVojL._SL1500_.jpg'},
-        { id:6,audio: '/audio/ashitaka_san.mp3', artist: 'Joe Hisaishi', tittle: 'Ashitaka & San', album: 'Princess Mononoke', cover: 'https://thefilmstage.com/wp-content/uploads/2020/04/princess-mononoke-symphonic-suite-vinyl-.jpg'},
-        { id:7,audio: '/audio/you_did_it.mp3', artist: 'Leon Riskin', tittle: 'You Did It!', album: 'Ultimate Custom Night', cover: 'https://i1.sndcdn.com/artworks-000368941563-fw2gob-t500x500.jpg'},
-        { id:8,audio: '/audio/sampo.mp3', artist: 'Joe Hisaishi', tittle: 'Sampo', album: 'My Neighbor Totoro', cover: 'https://img.discogs.com/9n2VyFB_foZFDOYFqmWxgfFTFMk=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4570988-1383038071-5428.jpeg.jpg'},
-        { id:9,audio: '/audio/wild_side.mp3', artist: 'A L I', tittle: 'WILD SIDE', album: 'Beastars', cover:'https://preview.redd.it/5tibmk07yaj51.jpg?width=3709&format=pjpg&auto=webp&s=2a41e6d888c5d7b4a1a0f7bff2046cfe4f1c7c61'}
+        { id:0, audio: '/audio/surrogate_jiji.m4a', artist: 'Joe Hisaishi', tittle: 'Surrogate Jiji', album: 'Kiki Delivery\'s Service', cover: '/img/cover/kiki_delivery.jpg' },
+        { id:1,audio: '/audio/ponyo.mp3', artist: 'Joe Hisaishi', tittle: 'Ponyo by The Cliff by The Sea', album: 'Ponyo', cover: '/img/cover/ponyo.jpg' },
+        { id:2,audio: '/audio/girl_from_sky.mp3', artist: 'Joe Hisaishi', tittle: 'The Girl who fell from the Sky', album: 'Laputa: Castle in The Sky', cover: '/img/cover/castle_ski.jpg' },
+        { id:3,audio: '/audio/promise_of_the_world.mp3', artist: 'Joe Hisaishi', tittle: 'Promise of the world', album: 'Howl\'s Moving Castle', cover: '/img/cover/howl_moving_castle.jpg' },
+        { id:4,audio: '/audio/vapor_trails.mp3', artist: 'Joe Hisaishi', tittle: 'Vapor Trail', album: 'The Wind Rises', cover: '/img/cover/wind_rises.jpg'},
+        { id:5,audio: '/audio/bygone_days.mp3', artist: 'Joe Hisaishi', tittle: 'Bygones Days', album: 'Porco Rosso', cover: '/img/cover/porco_rosso.jpg'},
+        { id:6,audio: '/audio/ashitaka_san.mp3', artist: 'Joe Hisaishi', tittle: 'Ashitaka & San', album: 'Princess Mononoke', cover: '/img/cover/mononoke.jpg'},
+        { id:7,audio: '/audio/you_did_it.mp3', artist: 'Leon Riskin', tittle: 'You Did It!', album: 'Ultimate Custom Night', cover: '/img/cover/ultimate_custom.jpg'},
+        { id:8,audio: '/audio/sampo.mp3', artist: 'Joe Hisaishi', tittle: 'Sampo', album: 'My Neighbor Totoro', cover: '/img/cover/totoro.jpg'},
+        { id:9,audio: '/audio/wild_side.mp3', artist: 'A L I', tittle: 'WILD SIDE', album: 'Beastars', cover:'/img/cover/beastars.jpg'}
       ],
       Liked : [
       ]
