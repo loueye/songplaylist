@@ -28,7 +28,7 @@ components: {LikedList, Playlist, Musique},
     return {
       counter:0,
       Playlist: [
-        { id:0, audio: '/audio/surrogate_jiji.m4a', artist: 'Joe Hisaishi', tittle: 'Surrogate Jiji', album: 'Kiki Delivery\'s Service', cover: 'https://lh6.googleusercontent.com/Jtl4LOmWN_C-xMqxwXIyUa7Lp3PPGj7UwBOVXaJ8aAwCu7AVZ3UTkMIeKj-0aO_zIwd9mvcEkyW2cB9d_GmAd_jjozpXUEph67ccqdah__g-Pkn5_X9YqcnPK5sxRLRmmA=s412' },
+        { id:0, audio: '/audio/surrogate_jiji.m4a', artist: 'Joe Hisaishi', tittle: 'Surrogate Jiji', album: 'Kiki Delivery\'s Service', cover: 'https://i1.sndcdn.com/artworks-000251709487-jtpnni-t500x500.jpg' },
         { id:1,audio: '/audio/ponyo.mp3', artist: 'Joe Hisaishi', tittle: 'Ponyo by The Cliff by The Sea', album: 'Ponyo', cover: 'https://vgmdownloads.com/soundtracks/ponyo-ost/07.jpg' },
         { id:2,audio: '/audio/girl_from_sky.mp3', artist: 'Joe Hisaishi', tittle: 'The Girl who fell from the Sky', album: 'Laputa: Castle in The Sky', cover: 'https://m.media-amazon.com/images/I/81T-0VmGhlL._SS500_.jpg' },
         { id:3,audio: '/audio/promise_of_the_world.mp3', artist: 'Joe Hisaishi', tittle: 'Promise of the world', album: 'Howl\'s Moving Castle', cover: 'https://vgmdownloads.com/soundtracks/howls-moving-castle-original-soundtrack/2236-uuzkwcxhul.jpg' },

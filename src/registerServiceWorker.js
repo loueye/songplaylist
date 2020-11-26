@@ -14,7 +14,7 @@ if (process.env.NODE_ENV === 'production') {
       console.log('Le service worker a été installé.')
       let cacheName = 'cache_img';
       let contentToCache = [
-          'https://lh6.googleusercontent.com/Jtl4LOmWN_C-xMqxwXIyUa7Lp3PPGj7UwBOVXaJ8aAwCu7AVZ3UTkMIeKj-0aO_zIwd9mvcEkyW2cB9d_GmAd_jjozpXUEph67ccqdah__g-Pkn5_X9YqcnPK5sxRLRmmA=s412',
+          'https://i1.sndcdn.com/artworks-000251709487-jtpnni-t500x500.jpg',
           './img/icons/logo.png',
           'https://vgmdownloads.com/soundtracks/ponyo-ost/07.jpg',
           'https://m.media-amazon.com/images/I/81T-0VmGhlL._SS500_.jpg',

@@ -18,7 +18,6 @@
       Veuillez noter que certaines fonctionnalités ne marchent pas comme elles le devraient. Certaines actions peuvent
       mener à des bugs ou des softlocks.
       <v-dialog
-          v-model="dialog"
           width="500"
       >
         <template v-slot:activator="{ on, attrs }">
@@ -102,13 +101,11 @@
       >
         <v-card-text>
           <v-btn
-              v-for="icon in icons"
-              :key="icon"
               class="mx-4"
               icon
           >
             <v-icon size="24px">
-              {{ icon }}
+              
             </v-icon>
           </v-btn>
         </v-card-text>
