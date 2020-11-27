@@ -6,12 +6,14 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "prod" : "npm run build && firebase deploy"
+    "prod": "npm run build && firebase deploy"
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "localforage": "^1.9.0",
     "register-service-worker": "^1.7.1",
     "vue": "^2.6.11",
+    "vue-localforage": "^0.2.5",
     "vue-router": "^3.2.0",
     "vuetify": "^2.2.11"
   },
